@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{51749E59-B48B-4D63-B5FE-1A2AF909D7B8}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RpnCalculatorDomain FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.RpnCalculatorTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

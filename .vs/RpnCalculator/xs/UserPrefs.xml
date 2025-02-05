@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{2F051F47-F5CF-4A35-B126-F9C7799BF272}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../RpnCalculatorTes/RpnCalculatorDomain/RpnCalculator.cs">
+    <Files>
+      <File FileName="../RpnCalculatorTes/RpnCalculatorDomain/RpnCalculator.cs" Line="1" Column="1" />
+      <File FileName="RpnCalculatorConsole/Program.cs" />
+      <File FileName="../RpnCalculatorTes/RpnCalculatorDomain/RpnCalculatorException.cs" />
+      <File FileName="../RpnCalculatorTes/RpnCalculatorDomain/RpnExceptionType.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RpnCalculator" expanded="True">
+            <Node name="RpnCalculatorConsole" expanded="True" />
+            <Node name="RpnCalculatorUI" expanded="True">
+              <Node name="app.manifest" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="RpnCalculator" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RpnCalculatorUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects" />
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.RpnCalculatorConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RpnCalculatorTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
