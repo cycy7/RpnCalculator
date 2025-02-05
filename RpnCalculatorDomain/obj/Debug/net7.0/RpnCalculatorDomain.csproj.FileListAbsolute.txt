@@ -1,0 +1,12 @@
+/Users/mchmch/Projects/RpnCalculatorTes/RpnCalculatorDomain/bin/Debug/net7.0/RpnCalculatorDomain.deps.json
+/Users/mchmch/Projects/RpnCalculatorTes/RpnCalculatorDomain/bin/Debug/net7.0/RpnCalculatorDomain.dll
+/Users/mchmch/Projects/RpnCalculatorTes/RpnCalculatorDomain/bin/Debug/net7.0/RpnCalculatorDomain.pdb
+/Users/mchmch/Projects/RpnCalculatorTes/RpnCalculatorDomain/obj/Debug/net7.0/RpnCalculatorDomain.csproj.AssemblyReference.cache
+/Users/mchmch/Projects/RpnCalculatorTes/RpnCalculatorDomain/obj/Debug/net7.0/RpnCalculatorDomain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mchmch/Projects/RpnCalculatorTes/RpnCalculatorDomain/obj/Debug/net7.0/RpnCalculatorDomain.AssemblyInfoInputs.cache
+/Users/mchmch/Projects/RpnCalculatorTes/RpnCalculatorDomain/obj/Debug/net7.0/RpnCalculatorDomain.AssemblyInfo.cs
+/Users/mchmch/Projects/RpnCalculatorTes/RpnCalculatorDomain/obj/Debug/net7.0/RpnCalculatorDomain.csproj.CoreCompileInputs.cache
+/Users/mchmch/Projects/RpnCalculatorTes/RpnCalculatorDomain/obj/Debug/net7.0/RpnCalculatorDomain.dll
+/Users/mchmch/Projects/RpnCalculatorTes/RpnCalculatorDomain/obj/Debug/net7.0/refint/RpnCalculatorDomain.dll
+/Users/mchmch/Projects/RpnCalculatorTes/RpnCalculatorDomain/obj/Debug/net7.0/RpnCalculatorDomain.pdb
+/Users/mchmch/Projects/RpnCalculatorTes/RpnCalculatorDomain/obj/Debug/net7.0/ref/RpnCalculatorDomain.dll
